@@ -10,7 +10,7 @@ Sou apaixonado por construir soluções completas, conectando o desenvolvimento 
 
 - Frontend
 
-- Bancos de Dados & Dados
+- Bancos de Dados
 
 📌 Destaques & Interesses
 
